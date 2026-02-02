@@ -1,5 +1,6 @@
 火火高清源,#group#
 
+
 央卫高清,#genre#
 
 
@@ -3477,9 +3478,9 @@ DJ舞曲,#genre#
 
 
 
+Catvod源,#group#
 
-
-
+Catvod,https://iptv.catvod.com/tv.m3u
 
 
 
@@ -6353,5 +6354,6 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 佳木斯综合,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
