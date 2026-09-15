@@ -8,9 +8,26 @@
     },
 
     {
-      "url": "https://9877.kstore.space/one.json",
+      "url": "
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
       "name": "荐┃潇洒线路108源"
     },
+,
+
+
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "荐┃牛二王二小线路87源"
+    },
+
+
+
+    {
+      "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
+      "name": "荐┃XPB线路181源"
+    },
+
 
 
     {
@@ -40,11 +57,6 @@
       "name": "荐┃哈基米4K线路161源"
     },
 
-
-    {
-      "url": "https://9280.kstore.vip/newwex.json",
-      "name": "荐┃王二小线路77源"
-    },
 
 
 
