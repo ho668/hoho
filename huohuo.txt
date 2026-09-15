@@ -12,6 +12,14 @@
     },
 
 
+
+
+    {
+      "url": "http://www.影视仓.com",
+      "name": "荐┃影视仓官网30源"
+    },
+
+
     {
       "url": "https://9280.kstore.vip/newwex.json",
       "name": "荐┃牛二王二小线路87源"
@@ -23,6 +31,7 @@
       "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
       "name": "荐┃XPB线路181源"
     },
+
 
 
 
