@@ -6,12 +6,10 @@
     },
 
 
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "name": "荐┃潇洒线路108源"
+    {
+      "name": "荐┃EasyTV线路94源",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
     },
-
-
 
 
     {
@@ -33,6 +31,12 @@
     },
 
 
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "name": "荐┃潇洒线路108源"
+    },
+
+
 
 
     {
@@ -45,6 +49,15 @@
     {
       "name": "荐┃拾光SVIP📚在线211源",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+    },
+
+
+
+
+
+    {
+      "name": "荐┃嗷呜线路65源",
+      "url": "https://9763.kstore.space/aowu.json"
     },
 
 
