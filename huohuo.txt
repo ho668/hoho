@@ -38,6 +38,15 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
     },
 
+
+
+
+    {
+      "name": "荐┃影视仓在线30源",
+      "url": "http://124.71.19.220/c/1"
+    },
+
+
     {
       "name": "荐┃光哥线路73源",
       "url": "https://o.nxog.top/apitv.php?id=100&b=o"
