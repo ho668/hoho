@@ -6,6 +6,18 @@
     },
 
 
+        {
+            "url": "https://9877.kstore.space/sun.json",
+      "name": "荐┃潇洒线路75源"
+    },
+
+
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "name": "荐┃潇洒备用线路75源"
+    },
+
+
     {
       "name": "荐┃EasyTV线路94源",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
@@ -30,11 +42,6 @@
       "name": "荐┃XPB线路181源"
     },
 
-
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "name": "荐┃潇洒线路108源"
-    },
 
 
 
